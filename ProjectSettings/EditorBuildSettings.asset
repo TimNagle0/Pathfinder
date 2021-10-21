@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Stage_1 Introduction.unity
+    guid: f5ffc56414b995145bc80eba87159edc
+  - enabled: 1
+    path: Assets/Scenes/Stage_1 Level_1.unity
+    guid: 1bd6cddff28224848ad37ec03fac36a7
+  - enabled: 1
+    path: Assets/Scenes/Stage_1 Level_2.unity
+    guid: 901e7d84feccfbf4a91eafdca02835a8
+  - enabled: 1
+    path: Assets/Scenes/Stage_1 Level_3.unity
+    guid: 5cd0065967cb38c409bbb33383e29396
+  - enabled: 1
+    path: Assets/Scenes/Stage_1 Level_4.unity
+    guid: ec4ff76f11254b94e8a1f3eaf87b999c
+  - enabled: 0
+    path: Assets/Scenes/Stage_1 Evaluation.unity
+    guid: 7db3467136ae4e746acf0e3cef290193
+  - enabled: 1
+    path: Assets/Scenes/Stage_2 Introduction.unity
+    guid: db30134c7e339fc47bcad97eaeeab412
+  - enabled: 1
+    path: Assets/Scenes/Stage_2 Level_1.unity
+    guid: 3c10bc201913c044e95a150969dfa820
+  - enabled: 1
+    path: Assets/Scenes/Stage_2 Level_2.unity
+    guid: d44c11bb694c443408b3e98396b07886
+  - enabled: 1
+    path: Assets/Scenes/Stage_2 Level_3.unity
+    guid: 8b5451f76e447a24dae13a0ad56934f0
+  - enabled: 1
+    path: Assets/Scenes/Stage_2 Level_4.unity
+    guid: 950152a221bd0384ea4599de77e710c8
+  - enabled: 0
+    path: Assets/Scenes/Stage_2 Evaluation.unity
+    guid: cb3fb5860b8f50e468ad82c72b9cc08f
+  - enabled: 1
+    path: Assets/Scenes/Stage_3 Introduction.unity
+    guid: 6a0001da0a89c7b479412e160f37916a
+  - enabled: 1
+    path: Assets/Scenes/Stage_3 Level 1.unity
+    guid: 44d045f767b61d04395099db538383de
+  - enabled: 1
+    path: Assets/Scenes/Stage_3 Level 2.unity
+    guid: 210d95170f492e04db21d7ce5fe84811
+  - enabled: 1
+    path: Assets/Scenes/Stage_3 Level 3.unity
+    guid: c5c7ae6bdf8641944a4f480ac3cc71af
+  - enabled: 1
+    path: Assets/Scenes/Stage_3 Level 4.unity
+    guid: cfd93be7ec63c714bbfcebc1901a262b
+  - enabled: 0
+    path: Assets/Scenes/Stage_3 Evaluation.unity
+    guid: 11318f20ff252794190e4e9c1417d138
+  - enabled: 0
+    path: Assets/Scenes/Final Challenge Introduction.unity
+    guid: 8a2aa7108b7d46b42bcb8bdf0d4a9bc8
+  - enabled: 0
+    path: Assets/Scenes/Final_Challenge.unity
+    guid: bb721bbaf8c74d24ab9809c2bcc877d1
+  m_configObjects: {}
